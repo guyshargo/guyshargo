@@ -8,17 +8,6 @@
 
 ---
 
-### Featured Projects
-
-| Project | Focus & Architecture | Stack |
-| :--- | :--- | :--- |
-| **[Graphics-Engine](https://github.com/guyshargo/Graphics-Engine)** | CPU-based 3D engine featuring a multi-threaded ray tracer (BVH acceleration, reflection/refraction, soft shadows, depth of field) and a software rasterizer (frustum clipping, Z-buffering, mipmapping, Phong shading). | `C++` `CMake` `SDL2` `GLM` `ImGui` |
-| **[Oak-Library-Management-System](https://github.com/guyshargo/Oak-Library-Management-System)** | Cloud-deployed full-stack library platform with a RESTful API, member & librarian portals (borrowing, waitlists, inventory), and analytics dashboards. | `TypeScript` `React` `Spring Boot` `MySQL` |
-| **[Path2Math](https://github.com/guyshargo/Path2Math)** | Gamified math learning web app with Gemini API personalized feedback, YouTube API content integration, and PeerJS real-time multiplayer. | `JavaScript` `React` `Node.js` `Express` `MongoDB` |
-| **[desk-telemetry-daemon](https://github.com/guyshargo/desk-telemetry-daemon)** | Event-driven desktop telemetry service capturing local OS & web media events and streaming them over WebSockets to a dedicated smart desk display. | `Python` `FastAPI` `WebSockets` `JavaScript` |
-
----
-
 ### Tech Stack
 
 **Languages**  
